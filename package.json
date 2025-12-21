@@ -1,26 +1,29 @@
 {
-    "name": "hexlet",
-    "type": "module",
-    "version": "1.0.0",
-    "description": "Мой первый проект на Хекслете",
-    "homepage": "https://github.com/quickbirds/hexlet-js#readme",
-    "bugs": {
-        "url": "https://github.com/quickbirds/hexlet-js/issues"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/quickbirds/hexlet-js.git"
-    },
-    "license": "ISC",
-    "author": {
-        "name": "Quickbirds",
-        "email": "al.polikanov@gmail.com"
-    },
-    "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "dependencies": {
-        "lodash": "^4.17.21"
-    }
+  "name": "hexlet",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Мой первый проект на Хекслете",
+  "homepage": "https://github.com/quickbirds/hexlet-js#readme",
+  "bugs": {
+    "url": "https://github.com/quickbirds/hexlet-js/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quickbirds/hexlet-js.git"
+  },
+  "license": "ISC",
+  "author": {
+    "name": "Quickbirds",
+    "email": "al.polikanov@gmail.com"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "prettier": "^3.7.4"
+  }
 }
