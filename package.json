@@ -16,7 +16,7 @@
     "name": "Quickbirds",
     "email": "al.polikanov@gmail.com"
   },
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
